@@ -74,4 +74,3 @@ In many rural areas, farmers lack access to smart analytics tools that can help 
 ## 📜 License
 
 Free to use for educational and learning purposes.
-Updated README with detailed project overview
