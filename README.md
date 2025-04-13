@@ -37,20 +37,22 @@ In many rural areas, farmers lack access to smart analytics tools that can help 
 ## 🚀 How to Run the Project
 
 1. Install dependencies:
-
-2. Run the app:
-
-3. The dashboard will open in your browser.
+   ```bash
+   pip install -r requirements.txt
+   
+2. Run the app: 
+   streamlit run app.py
+   
+4. The dashboard will open in your browser at http://localhost:8501
 
 ---
 
 ## 👥 Team Members
 
-- Harsha — Project Manager & GitHub
-- Member 2 — Data Collection
-- Member 3 — Developer
-- Member 4 — Documentation & Presentation
-
+- Harsha — Project Manager, Maintainer, and GitHub Manager
+- Member 2 — Responsible for Data Collection
+- Member 3 — Backend Developer
+- Member 4 — Documentation and Presentation Specialist
 ---
 
 ## 🌍 Real World Impact
